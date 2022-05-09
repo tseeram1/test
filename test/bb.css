@@ -1,0 +1,12 @@
+html {
+    background-color: black;
+}
+
+.parent {
+    color:magenta;
+    text-align: center;
+}
+.parent #des2 {
+    color:pink;
+}
+
